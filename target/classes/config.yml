@@ -1,0 +1,18 @@
+# SimpleSpawn default configuration
+cooldownSeconds: 10
+
+welcome:
+  message: "&aWelcome to the server, %player%!"
+  title:
+    enabled: false
+    title: "&6Welcome"
+    subtitle: "&7Have fun!"
+
+# spawn: will be filled by /setspawn
+# spawn:
+#   world: world
+#   x: 0.0
+#   y: 64.0
+#   z: 0.0
+#   yaw: 0.0
+#   pitch: 0.0
